@@ -1,6 +1,6 @@
-# Udemy - 20 javascript projects - Wikipedia apy App
+# Udemy - 20 javascript projects - Wikipedia apI App
 
-This is a solution to the [Wikipedia apy App from Udemy](https://www.udemy.com/course/20-projets-en-javascript/).
+This is a solution to the [Wikipedia api App from Udemy](https://www.udemy.com/course/20-projets-en-javascript/).
 
 ## Table of contents
 
@@ -42,7 +42,7 @@ https://en.wikipedia.org/w/api.php?action=query&list=search&format=json&origin=*
 ### Links
 
 - Solution URL: [Github link](https://github.com/Stv-devl/Wikipedia-APY---FR)
-- Live Site URL: [Live link]()
+- Live Site URL: [Live link](https://stv-devl.github.io/Wikipedia-APY---FR/?)
 
 ## My process
 
@@ -55,11 +55,11 @@ https://en.wikipedia.org/w/api.php?action=query&list=search&format=json&origin=*
 - Mobile-first workflow
 - SASS / SCSS
 - Vanilla JS
-- APY
+- API
 
 ### What I learned
 
-I learned to practice javascript. And use APY
+I learned to practice javascript. And use API
 
 ### Continued development
 
